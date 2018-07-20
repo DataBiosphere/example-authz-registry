@@ -1,0 +1,9 @@
+users:
+  user@gmail.com:
+    projects:
+    - auth_id: topmed
+      privilege: [create, read, update, delete, upload]
+  userB@gmail.com:
+    projects:
+    - auth_id: gtex
+      privilege: [create, read, update, delete, upload]
